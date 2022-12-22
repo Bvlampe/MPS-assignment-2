@@ -171,3 +171,4 @@ logit.checks <- function(model) {
 }
 logit.checks(model)
 logit.checks(model2)
+
